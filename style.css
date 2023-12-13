@@ -1,0 +1,81 @@
+.gradient-background {
+    background: linear-gradient(300deg,#e60ba9,#855a9e,#18f0bc);
+    background-size: 180% 180%;
+    animation: gradient-animation 10s ease infinite;
+  }
+  .dp{
+    float: left;
+    border-radius: 50%;
+    border: 2px solid antiquewhite ;
+    width: 100px;
+    height: 100px;
+  }
+  .container{
+    display: flex;
+    justify-content:center; 
+    padding-top: 40px;
+    
+  }
+  .first{
+    padding-right: 150px;
+  }
+  .two{
+    padding-right: 150px;;
+  }
+
+  
+  .container1{
+    display: flex;
+    justify-content:center ;
+    gap:90px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+
+  }
+  body{
+    background-color:d7BBF5;
+  }
+  .mail{
+    height: 50px;
+    width: 50px;
+    border-radius:50%;
+  }
+  
+  .cont{
+    display: flex;
+    justify-content: center;
+    gap:50px;
+    padding-left:60px;
+  }
+  h3{
+    color:dimgray;
+  }
+  .two{
+    color:lightgoldenrodyellow;
+    letter-spacing: 2px;
+  }
+  .edu{
+    display: flex;
+    justify-content: center;
+    gap:90px;
+    padding-right: 40px;
+  }
+  .skill{
+    display: flex;
+    justify-content: center;
+    gap:90px;
+    padding-left: 90px;
+  
+  }
+  .hobby{
+    display: flex;
+    padding-left: 220px;
+    
+  }
+  .hob{
+    display: flex;
+    justify-content: center;
+    gap:90px;
+    padding-right: 40px;
+  
+  }
